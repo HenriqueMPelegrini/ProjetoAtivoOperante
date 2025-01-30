@@ -1,3 +1,2 @@
 # Ativo e Operante!  
-É um sistema Web bem simples, usado par aprender a SPRING Boot capaz de oferecer uma ferramenta ao cidadão que deseja avisar ou denunciar aos orgãos competentes sobre problemas na cidade, 
-como buracos na rua, abandono de animais, poda ou corte de árvores, problemas no trânsito, enfim qualquer situação que pode afetar o dia a dia do cidadão.
+É um sistema web simples, desenvolvido para estudar o Spring Boot, que oferece uma ferramenta para cidadãos reportarem ou denunciarem problemas na cidade aos órgãos competentes. Entre os possíveis relatos estão buracos na rua, abandono de animais, necessidade de poda ou corte de árvores, problemas no trânsito, entre outras situações que possam impactar o dia a dia da população.
